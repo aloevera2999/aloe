@@ -54,7 +54,7 @@ proxies:
   - {name: 🇨🇳 中国-台湾宜兰 IPLC D08, server: tw08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇨🇳 中国-台湾宜兰 IPLC D09, server: tw09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇨🇳 中国-台湾宜兰 IPLC D10, server: tw10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D01 Netflix, server: sgp01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D01 Netflix, server: bgp.pccwcloud.xyz, port: 20274, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
   - {name: 🇸🇬 中国-新加坡 IEPL D02 Netflix, server: sgp02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇸🇬 中国-新加坡 IEPL D03 Netflix, server: sgp03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇸🇬 中国-新加坡 IEPL D04 Netflix, server: sgp04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
@@ -95,9 +95,9 @@ proxies:
   - {name: 🇰🇷 中国-韩国 IPLC D08 Netflix, server: kr08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇰🇷 中国-韩国 IPLC D09 Netflix, server: kr09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇰🇷 中国-韩国 IPLC D10 Netflix, server: kr10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: hk01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: hk02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: hk03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: bgp.pccwcloud.xyz, port: 20273, type: ss, cipher: rc4-md5, password: -1s, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: bgp.pccwcloud.xyz, port: 20275, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: 121.10.139.200, port: 10115, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
   - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 04 1Gbps Netflix HBO TVB, server: hk04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 05 1Gbps Netflix HBO TVB, server: hk05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 06 1Gbps Netflix HBO TVB, server: hk06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
