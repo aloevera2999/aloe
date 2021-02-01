@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇩🇪 ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01, server: pvcc01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇩🇪 ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01, server: 185.102.219.47, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
   - {name: 🇷🇺 IPV6 俄罗斯 D01, server: 2a00:b700:2::9:283, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇺🇲 IPV6 美国 D01, server: "2605:52c0:2:60a::", port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇺🇲 IPV6 美国 D02, server: "2605:52c0:2:60d::", port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
@@ -20,11 +20,11 @@ proxies:
   - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D09, server: ru09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D10, server: ru10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇿🇦 中国-南非开普敦 IPLC Softbank网络承载, server: nf01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D01, server: in01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D02, server: in02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D03, server: in03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D04, server: in04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D05, server: in05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D01, server: 165.231.253.165, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D02, server: 165.231.253.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D03, server: 165.231.253.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D04, server: 103.221.233.88, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D05, server: 165.231.253.149, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
   - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D06, server: in06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D07, server: in07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D08, server: in08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
@@ -156,8 +156,8 @@ proxies:
   - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D06, server: 8.129.38.249, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D07, server: 8.129.56.92, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D08, server: 8.129.49.131, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输, server: us01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输, server: us02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输, server: 185.124.240.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输, server: 107.181.166.55, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
   - {name: 🇺🇲 美国 萨克拉门托 D03 Netflix Hulu HBO 沪美IEPL传输, server: us03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇺🇲 美国 萨克拉门托 D04 Netflix Hulu HBO 沪美IEPL传输, server: us04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
   - {name: 🇺🇲 美国 萨克拉门托 D05 Netflix Hulu HBO 沪美IEPL传输, server: us05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
