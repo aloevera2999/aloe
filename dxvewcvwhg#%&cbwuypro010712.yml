@@ -5,217 +5,217 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇩🇪 ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01, server: 185.102.219.47, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇷🇺 IPV6 俄罗斯 D01, server: 2a00:b700:2::9:283, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 IPV6 美国 D01, server: "2605:52c0:2:60a::", port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 IPV6 美国 D02, server: "2605:52c0:2:60d::", port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D01, server: ru01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D02, server: ru02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D03, server: ru03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D04, server: ru04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D05, server: ru05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D06, server: ru06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D07, server: ru07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D08, server: ru08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D09, server: ru09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D10, server: ru10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇿🇦 中国-南非开普敦 IPLC Softbank网络承载, server: nf01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D01, server: 165.231.253.165, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D02, server: 165.231.253.163, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D03, server: 165.231.253.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D04, server: 103.221.233.88, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D05, server: 165.231.253.149, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D06, server: in06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D07, server: in07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D08, server: in08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D09, server: in09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D10, server: in10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D11, server: in11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D12, server: in12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D01, server: tw11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D02, server: tw12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D03, server: tw13.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D04, server: tw14.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D05, server: tw15.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D06, server: tw16.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D07, server: tw17.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D08, server: tw18.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D09, server: tw19.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D10, server: tw20.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D11, server: tw21.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D12, server: tw22.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D01, server: tw01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D02, server: tw02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D03, server: tw03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D04, server: tw04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D05, server: tw05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D06, server: tw06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D07, server: tw07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D08, server: tw08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D09, server: tw09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 中国-台湾宜兰 IPLC D10, server: tw10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D01 Netflix, server: bgp.pccwcloud.xyz, port: 20274, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D02 Netflix, server: sgp02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D03 Netflix, server: sgp03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D04 Netflix, server: sgp04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D05 Netflix, server: sgp05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D06 Netflix, server: sgp06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D07 Netflix, server: sgp07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D08 Netflix, server: sgp08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D09 Netflix, server: sgp09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D10 Netflix, server: sgp10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D11 Netflix, server: sgp11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇸🇬 中国-新加坡 IEPL D12 Netflix, server: sgp12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D1 1000Mbps, server: hr01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D10 1000Mbps, server: hr10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D11 1000Mbps, server: hr11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D12 1000Mbps, server: hr12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D2 1000Mbps, server: hr02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D3 1000Mbps, server: hr03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D4 1000Mbps, server: hr04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D5 1000Mbps, server: hr05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D6 1000Mbps, server: hr06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D7 1000Mbps, server: hr07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D8 1000Mbps, server: hr08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D9 1000Mbps, server: hr09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D1, server: uk01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D2, server: uk02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D3, server: uk03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D4, server: uk04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D5, server: uk05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D6, server: uk06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇦🇷 中国-阿根廷 IPLC 布宜诺斯艾利斯 D01 100Mbps, server: agt01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D01 Netflix, server: kr01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D02 Netflix, server: kr02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D03 Netflix, server: kr03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D04 Netflix, server: kr04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D05 Netflix, server: kr05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D06 Netflix, server: kr06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D07 Netflix, server: kr07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D08 Netflix, server: kr08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D09 Netflix, server: kr09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 中国-韩国 IPLC D10 Netflix, server: kr10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: bgp.pccwcloud.xyz, port: 20273, type: ss, cipher: rc4-md5, password: -1s, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: bgp.pccwcloud.xyz, port: 20275, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: 121.10.139.200, port: 10115, type: ss, cipher: chacha20-ietf, password: -1s, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 04 1Gbps Netflix HBO TVB, server: hk04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 05 1Gbps Netflix HBO TVB, server: hk05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 06 1Gbps Netflix HBO TVB, server: hk06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 07 1Gbps Netflix HBO TVB, server: hk07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 08 1Gbps Netflix HBO TVB, server: hk08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 09 1Gbps Netflix HBO TVB, server: hk09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 10 1Gbps Netflix HBO TVB, server: hk10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: sg01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: sg02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: sg03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 04 1Gbps Netflix HBO TVB, server: sg04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 05 1Gbps Netflix HBO TVB, server: sg05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 06 1Gbps Netflix HBO TVB, server: sg06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 07 1Gbps Netflix HBO TVB, server: sg07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 08 1Gbps Netflix HBO TVB, server: sg08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 09 1Gbps Netflix HBO TVB, server: sg09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 10 1Gbps Netflix HBO TVB, server: sg10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 11 1Gbps Netflix HBO TVB, server: sg11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 12 1Gbps Netflix HBO TVB, server: sg12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D01 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D02 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D03 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D04 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D05 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D06 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D07 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D08 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D09 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D10 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D11 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D12 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D13 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back13.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D14 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back14.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇨🇳 回国线路 无法翻墙 D15 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back15.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇩🇪 ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01, server: pvcc01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 IPV6 俄罗斯 D01, server: 2a00:b700:2::9:283, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 IPV6 美国 D01, server: "2605:52c0:2:60a::", port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 IPV6 美国 D02, server: "2605:52c0:2:60d::", port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D01, server: ru01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D02, server: ru02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D03, server: ru03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D04, server: ru04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D05, server: ru05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D06, server: ru06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D07, server: ru07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D08, server: ru08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D09, server: ru09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇷🇺 中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D10, server: ru10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇿🇦 中国-南非开普敦 IPLC Softbank网络承载, server: nf01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D01, server: in01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D02, server: in02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D03, server: in03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D04, server: in04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D05, server: in05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D06, server: in06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D07, server: in07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D08, server: in08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D09, server: in09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D10, server: in10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D11, server: in11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇮🇳 中国-印度 马哈拉施特拉 IPLC D12, server: in12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D01, server: tw11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D02, server: tw12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D03, server: tw13.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D04, server: tw14.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D05, server: tw15.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接  D06, server: tw16.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D07, server: tw17.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D08, server: tw18.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D09, server: tw19.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D10, server: tw20.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D11, server: tw21.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾IEPL Hinet固接 D12, server: tw22.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D01, server: tw01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D02, server: tw02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D03, server: tw03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D04, server: tw04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D05, server: tw05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D06, server: tw06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D07, server: tw07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D08, server: tw08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D09, server: tw09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 中国-台湾宜兰 IPLC D10, server: tw10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D01 Netflix, server: sgp01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D02 Netflix, server: sgp02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D03 Netflix, server: sgp03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D04 Netflix, server: sgp04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D05 Netflix, server: sgp05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D06 Netflix, server: sgp06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D07 Netflix, server: sgp07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D08 Netflix, server: sgp08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D09 Netflix, server: sgp09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D10 Netflix, server: sgp10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D11 Netflix, server: sgp11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇸🇬 中国-新加坡 IEPL D12 Netflix, server: sgp12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D1 1000Mbps, server: hr01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D10 1000Mbps, server: hr10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D11 1000Mbps, server: hr11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D12 1000Mbps, server: hr12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D2 1000Mbps, server: hr02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D3 1000Mbps, server: hr03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D4 1000Mbps, server: hr04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D5 1000Mbps, server: hr05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D6 1000Mbps, server: hr06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D7 1000Mbps, server: hr07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D8 1000Mbps, server: hr08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 中国-日本 多协议标签交换虚拟专用网 D9 1000Mbps, server: hr09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D1, server: uk01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D2, server: uk02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D3, server: uk03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D4, server: uk04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D5, server: uk05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇬🇧 中国-英国伦敦电信 IEPL D6, server: uk06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇦🇷 中国-阿根廷 IPLC 布宜诺斯艾利斯 D01 100Mbps, server: agt01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D01 Netflix, server: kr01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D02 Netflix, server: kr02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D03 Netflix, server: kr03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D04 Netflix, server: kr04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D05 Netflix, server: kr05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D06 Netflix, server: kr06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D07 Netflix, server: kr07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D08 Netflix, server: kr08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D09 Netflix, server: kr09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 中国-韩国 IPLC D10 Netflix, server: kr10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: hk01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: hk02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: hk03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 04 1Gbps Netflix HBO TVB, server: hk04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 05 1Gbps Netflix HBO TVB, server: hk05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 06 1Gbps Netflix HBO TVB, server: hk06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 07 1Gbps Netflix HBO TVB, server: hk07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 08 1Gbps Netflix HBO TVB, server: hk08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 09 1Gbps Netflix HBO TVB, server: hk09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IEPL Equinix HK2 D 10 1Gbps Netflix HBO TVB, server: hk10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 01 1Gbps Netflix HBO TVB, server: sg01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 02 1Gbps Netflix HBO TVB, server: sg02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 03 1Gbps Netflix HBO TVB, server: sg03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 04 1Gbps Netflix HBO TVB, server: sg04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 05 1Gbps Netflix HBO TVB, server: sg05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 06 1Gbps Netflix HBO TVB, server: sg06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 07 1Gbps Netflix HBO TVB, server: sg07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 08 1Gbps Netflix HBO TVB, server: sg08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 09 1Gbps Netflix HBO TVB, server: sg09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 10 1Gbps Netflix HBO TVB, server: sg10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 11 1Gbps Netflix HBO TVB, server: sg11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 中国-香港 IPLC Equinix HK2 D 12 1Gbps Netflix HBO TVB, server: sg12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D01 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D02 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D03 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D04 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D05 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D06 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D07 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D08 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D09 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D10 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D11 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D12 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D13 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back13.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D14 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back14.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇨🇳 回国线路 无法翻墙 D15 爱奇艺/QQ音乐/网易云VIP/腾讯视频, server: back15.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
   - {name: 因V2ray重大漏洞问题，暂时下架全部V2节点。请使用ssr/ss连接方式进行使用。, server: v2-jp01.clashcloud.org, port: 681, type: vmess, uuid: a87f5246-b295-399d-9970-681d60ff3b7e, alterId: 1, cipher: auto, tls: false, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 01, server: jp01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 02, server: jp02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 03, server: jp03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 04, server: jp04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 05, server: jp05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 06, server: jp06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 07, server: jp07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 08, server: jp08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 09, server: jp09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 10, server: jp10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D01, server: hg01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D02, server: hg02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D03, server: hg03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D04, server: hg04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D05, server: hg05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D01, server: 8.129.40.12, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D02, server: 8.129.52.208, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D03, server: 8.129.45.24, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D04, server: 8.129.52.125, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D05, server: 47.112.158.54, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D06, server: 8.129.38.249, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D07, server: 8.129.56.92, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D08, server: 8.129.49.131, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输, server: 185.124.240.147, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输, server: 107.181.166.55, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D03 Netflix Hulu HBO 沪美IEPL传输, server: us03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D04 Netflix Hulu HBO 沪美IEPL传输, server: us04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D05 Netflix Hulu HBO 沪美IEPL传输, server: us05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D06 Netflix Hulu HBO 沪美IEPL传输\t", server: us06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D07 Netflix Hulu HBO 沪美IEPL传输\t", server: us07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D08 Netflix Hulu HBO 沪美IEPL传输\t", server: us08.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D09 Netflix Hulu HBO 沪美IEPL传输\t", server: us09.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D10 Netflix Hulu HBO 沪美IEPL传输\t", server: us10.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D11 Netflix Hulu HBO 沪美IEPL传输\t", server: us11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D12 Netflix Hulu HBO 沪美IEPL传输\t", server: us12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D13 Netflix Hulu HBO 沪美IEPL传输\t", server: us13.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: "🇺🇲 美国 萨克拉门托 D14 Netflix Hulu HBO 沪美IEPL传输\t", server: us14.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D15 Netflix Hulu HBO 沪美IEPL传输, server: us15.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D16 Netflix Hulu HBO 沪美IEPL传输, server: us16.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D17 Netflix Hulu HBO 沪美IEPL传输, server: us17.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D18 Netflix Hulu HBO 沪美IEPL传输, server: us18.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D19 Netflix Hulu HBO 沪美IEPL传输, server: us19.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D20 Netflix Hulu HBO 沪美IEPL传输, server: us20.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D21 Netflix Hulu HBO 沪美IEPL传输, server: us21.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D22 Netflix Hulu HBO 沪美IEPL传输, server: us22.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D23 Netflix Hulu HBO 沪美IEPL传输, server: us23.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D24 Netflix Hulu HBO 沪美IEPL传输, server: us24.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D25 Netflix Hulu HBO 沪美IEPL传输, server: us25.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D26 Netflix Hulu HBO 沪美IEPL传输, server: us26.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D27 Netflix Hulu HBO 沪美IEPL传输, server: us27.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D28 Netflix Hulu HBO 沪美IEPL传输, server: us28.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D29 Netflix Hulu HBO 沪美IEPL传输, server: us29.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D30 Netflix Hulu HBO 沪美IEPL传输, server: us30.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D31 Netflix Hulu HBO 沪美IEPL传输, server: us31.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D32 Netflix Hulu HBO 沪美IEPL传输, server: us32.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D33 Netflix Hulu HBO 沪美IEPL传输, server: us33.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D34 Netflix Hulu HBO 沪美IEPL传输, server: us34.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D35 Netflix Hulu HBO 沪美IEPL传输, server: us35.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D36 Netflix Hulu HBO 沪美IEPL传输, server: us36.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D37 Netflix Hulu HBO 沪美IEPL传输, server: us37.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D38 Netflix Hulu HBO 沪美IEPL传输, server: us38.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D39 Netflix Hulu HBO 沪美IEPL传输, server: us39.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇺🇲 美国 萨克拉门托 D40 Netflix Hulu HBO 沪美IEPL传输, server: us40.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 01, server: kr11.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 02, server: kr12.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 03, server: kr13.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 04, server: kr14.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 05, server: kr15.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 06, server: kr16.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 07, server: kr17.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 08, server: kr18.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 09, server: kr19.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 10, server: kr20.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 11, server: kr21.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 12, server: kr22.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 13, server: kr23.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D01, server: hkt01.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D02, server: hkt02.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D03, server: hkt03.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D04, server: hkt04.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D05, server: hkt05.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D06, server: hkt06.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
-  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D07, server: hkt07.clashcloud.tech, port: 23524, type: ss, cipher: rc4-md5, password: uZoCNL, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 01, server: jp01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 02, server: jp02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 03, server: jp03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 04, server: jp04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 05, server: jp05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 06, server: jp06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 07, server: jp07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 08, server: jp08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 09, server: jp09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇯🇵 日本 まつやまし auひかり ホーム1ギガ D 10, server: jp10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D01, server: hg01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D02, server: hg02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D03, server: hg03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D04, server: hg04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D05, server: hg05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D01, server: 8.129.40.12, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D02, server: 8.129.52.208, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D03, server: 8.129.45.24, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D04, server: 8.129.52.125, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D05, server: 47.112.158.54, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D06, server: 8.129.38.249, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D07, server: 8.129.56.92, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 游戏加速专用-限速5Mbps-国泰港龙航空广州白云国际机场W209B-独立裸纤传输 Super-BGP D08, server: 8.129.49.131, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输, server: us01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输, server: us02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D03 Netflix Hulu HBO 沪美IEPL传输, server: us03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D04 Netflix Hulu HBO 沪美IEPL传输, server: us04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D05 Netflix Hulu HBO 沪美IEPL传输, server: us05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D06 Netflix Hulu HBO 沪美IEPL传输\t", server: us06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D07 Netflix Hulu HBO 沪美IEPL传输\t", server: us07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D08 Netflix Hulu HBO 沪美IEPL传输\t", server: us08.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D09 Netflix Hulu HBO 沪美IEPL传输\t", server: us09.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D10 Netflix Hulu HBO 沪美IEPL传输\t", server: us10.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D11 Netflix Hulu HBO 沪美IEPL传输\t", server: us11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D12 Netflix Hulu HBO 沪美IEPL传输\t", server: us12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D13 Netflix Hulu HBO 沪美IEPL传输\t", server: us13.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: "🇺🇲 美国 萨克拉门托 D14 Netflix Hulu HBO 沪美IEPL传输\t", server: us14.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D15 Netflix Hulu HBO 沪美IEPL传输, server: us15.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D16 Netflix Hulu HBO 沪美IEPL传输, server: us16.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D17 Netflix Hulu HBO 沪美IEPL传输, server: us17.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D18 Netflix Hulu HBO 沪美IEPL传输, server: us18.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D19 Netflix Hulu HBO 沪美IEPL传输, server: us19.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D20 Netflix Hulu HBO 沪美IEPL传输, server: us20.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D21 Netflix Hulu HBO 沪美IEPL传输, server: us21.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D22 Netflix Hulu HBO 沪美IEPL传输, server: us22.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D23 Netflix Hulu HBO 沪美IEPL传输, server: us23.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D24 Netflix Hulu HBO 沪美IEPL传输, server: us24.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D25 Netflix Hulu HBO 沪美IEPL传输, server: us25.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D26 Netflix Hulu HBO 沪美IEPL传输, server: us26.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D27 Netflix Hulu HBO 沪美IEPL传输, server: us27.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D28 Netflix Hulu HBO 沪美IEPL传输, server: us28.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D29 Netflix Hulu HBO 沪美IEPL传输, server: us29.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D30 Netflix Hulu HBO 沪美IEPL传输, server: us30.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D31 Netflix Hulu HBO 沪美IEPL传输, server: us31.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D32 Netflix Hulu HBO 沪美IEPL传输, server: us32.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D33 Netflix Hulu HBO 沪美IEPL传输, server: us33.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D34 Netflix Hulu HBO 沪美IEPL传输, server: us34.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D35 Netflix Hulu HBO 沪美IEPL传输, server: us35.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D36 Netflix Hulu HBO 沪美IEPL传输, server: us36.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D37 Netflix Hulu HBO 沪美IEPL传输, server: us37.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D38 Netflix Hulu HBO 沪美IEPL传输, server: us38.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D39 Netflix Hulu HBO 沪美IEPL传输, server: us39.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇺🇲 美国 萨克拉门托 D40 Netflix Hulu HBO 沪美IEPL传输, server: us40.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 01, server: kr11.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 02, server: kr12.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 03, server: kr13.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 04, server: kr14.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 05, server: kr15.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 06, server: kr16.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 07, server: kr17.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 08, server: kr18.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 09, server: kr19.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 10, server: kr20.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 11, server: kr21.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 12, server: kr22.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇰🇷 韩国 전라북도 전주시 商宽 D 13, server: kr23.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D01, server: hkt01.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D02, server: hkt02.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D03, server: hkt03.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D04, server: hkt04.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D05, server: hkt05.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D06, server: hkt06.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
+  - {name: 🇭🇰 香港 油尖旺御金·国峯 網上行寬頻 D07, server: hkt07.as9929.com, port: 10096, type: ss, cipher: rc4-md5, password: JJdaHM, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
