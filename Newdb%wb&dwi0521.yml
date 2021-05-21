@@ -1,4 +1,21 @@
-- {name: SurfSharkVPN-Albania, server: 31.171.153.133, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+mixed-port: 7890
+allow-lan: true
+ipv6: false
+mode: Rule
+log-level: silent
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fallback:
+    - 1.1.1.1
+    - 8.8.8.8
+proxies:
+  - {name: SurfSharkVPN-Albania, server: 31.171.153.133, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: SurfSharkVPN-Albania 2, server: 31.171.152.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: SurfSharkVPN-Albania 3, server: 31.171.155.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: SurfSharkVPN-Albania 4, server: 31.171.155.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
@@ -193,3 +210,405 @@
   - {name: SurfSharkVPN-Italy 14, server: 82.102.26.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: SurfSharkVPN-Italy 15, server: 82.102.26.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
   - {name: SurfSharkVPN-Italy 16, server: 82.102.26.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+proxy-groups:
+  - name: 🔰 SELECT
+    type: select
+    proxies:
+      - ♻️ BESTPING
+      - SurfSharkVPN-Albania
+      - SurfSharkVPN-Albania 2
+      - SurfSharkVPN-Albania 3
+      - SurfSharkVPN-Albania 4
+      - SurfSharkVPN-Albania 5
+      - SurfSharkVPN-Albania 6
+      - SurfSharkVPN-Albania 7
+      - SurfSharkVPN-Albania 8
+      - SurfSharkVPN-Albania 9
+      - SurfSharkVPN-Albania 10
+      - SurfSharkVPN-Austria
+      - SurfSharkVPN-Austria 2
+      - SurfSharkVPN-Austria 3
+      - SurfSharkVPN-Austria 4
+      - SurfSharkVPN-Austria 5
+      - SurfSharkVPN-Austria 6
+      - SurfSharkVPN-Austria 7
+      - SurfSharkVPN-Austria 8
+      - SurfSharkVPN-Austria 9
+      - SurfSharkVPN-Belgium
+      - SurfSharkVPN-Belgium 2
+      - SurfSharkVPN-Belgium 3
+      - SurfSharkVPN-Belgium 4
+      - SurfSharkVPN-Belgium 5
+      - SurfSharkVPN-Belgium 6
+      - SurfSharkVPN-Belgium 7
+      - SurfSharkVPN-Belgium 8
+      - SurfSharkVPN-Belgium 9
+      - SurfSharkVPN-Bosnia-and-Herzegovina
+      - SurfSharkVPN-Bosnia-and-Herzegovina 2
+      - SurfSharkVPN-Bosnia-and-Herzegovina 3
+      - SurfSharkVPN-Bosnia-and-Herzegovina 4
+      - SurfSharkVPN-Bosnia-and-Herzegovina 5
+      - SurfSharkVPN-Bosnia-and-Herzegovina 6
+      - SurfSharkVPN-Bosnia-and-Herzegovina 7
+      - SurfSharkVPN-Bosnia-and-Herzegovina 8
+      - SurfSharkVPN-Bosnia-and-Herzegovina 9
+      - SurfSharkVPN-Bosnia-and-Herzegovina 10
+      - SurfSharkVPN-Bulgaria
+      - SurfSharkVPN-Bulgaria 2
+      - SurfSharkVPN-Bulgaria 3
+      - SurfSharkVPN-Bulgaria 4
+      - SurfSharkVPN-Bulgaria 5
+      - SurfSharkVPN-Croatia
+      - SurfSharkVPN-Croatia 2
+      - SurfSharkVPN-Croatia 3
+      - SurfSharkVPN-Croatia 4
+      - SurfSharkVPN-Croatia 5
+      - SurfSharkVPN-Croatia 6
+      - SurfSharkVPN-Croatia 7
+      - SurfSharkVPN-Croatia 8
+      - SurfSharkVPN-Cyprus
+      - SurfSharkVPN-Cyprus 2
+      - SurfSharkVPN-Cyprus 3
+      - SurfSharkVPN-Cyprus 4
+      - SurfSharkVPN-Cyprus 5
+      - SurfSharkVPN-Cyprus 6
+      - SurfSharkVPN-Cyprus 7
+      - SurfSharkVPN-Cyprus 8
+      - SurfSharkVPN-Cyprus 9
+      - SurfSharkVPN-Cyprus 10
+      - SurfSharkVPN-Czechia
+      - SurfSharkVPN-Czechia 2
+      - SurfSharkVPN-Czechia 3
+      - SurfSharkVPN-Czechia 4
+      - SurfSharkVPN-Czechia 5
+      - SurfSharkVPN-Czechia 6
+      - SurfSharkVPN-Czechia 7
+      - SurfSharkVPN-Denmark
+      - SurfSharkVPN-Denmark 2
+      - SurfSharkVPN-Denmark 3
+      - SurfSharkVPN-Denmark 4
+      - SurfSharkVPN-Denmark 5
+      - SurfSharkVPN-Denmark 6
+      - SurfSharkVPN-Denmark 7
+      - SurfSharkVPN-Denmark 8
+      - SurfSharkVPN-Estonia
+      - SurfSharkVPN-Estonia 2
+      - SurfSharkVPN-Estonia 3
+      - SurfSharkVPN-Estonia 4
+      - SurfSharkVPN-Estonia 5
+      - SurfSharkVPN-Estonia 6
+      - SurfSharkVPN-Estonia 7
+      - SurfSharkVPN-Finland
+      - SurfSharkVPN-Finland 2
+      - SurfSharkVPN-Finland 3
+      - SurfSharkVPN-Finland 4
+      - SurfSharkVPN-Finland 5
+      - SurfSharkVPN-Finland 6
+      - SurfSharkVPN-France
+      - SurfSharkVPN-France 2
+      - SurfSharkVPN-France 3
+      - SurfSharkVPN-France 4
+      - SurfSharkVPN-France 5
+      - SurfSharkVPN-France 6
+      - SurfSharkVPN-France 7
+      - SurfSharkVPN-France 8
+      - SurfSharkVPN-France 9
+      - SurfSharkVPN-France 10
+      - SurfSharkVPN-France 11
+      - SurfSharkVPN-France 12
+      - SurfSharkVPN-France 13
+      - SurfSharkVPN-France 14
+      - SurfSharkVPN-France 15
+      - SurfSharkVPN-France 16
+      - SurfSharkVPN-France 17
+      - SurfSharkVPN-France 18
+      - SurfSharkVPN-France 19
+      - SurfSharkVPN-France 20
+      - SurfSharkVPN-France 21
+      - SurfSharkVPN-France 22
+      - SurfSharkVPN-France 23
+      - SurfSharkVPN-France 24
+      - SurfSharkVPN-France 25
+      - SurfSharkVPN-France 26
+      - SurfSharkVPN-France 27
+      - SurfSharkVPN-France 28
+      - SurfSharkVPN-France 29
+      - SurfSharkVPN-France 30
+      - SurfSharkVPN-Germany
+      - SurfSharkVPN-Germany 2
+      - SurfSharkVPN-Germany 3
+      - SurfSharkVPN-Germany 4
+      - SurfSharkVPN-Germany 5
+      - SurfSharkVPN-Germany 6
+      - SurfSharkVPN-Germany 7
+      - SurfSharkVPN-Germany 8
+      - SurfSharkVPN-Germany 9
+      - SurfSharkVPN-Germany 10
+      - SurfSharkVPN-Germany 11
+      - SurfSharkVPN-Germany 12
+      - SurfSharkVPN-Germany 13
+      - SurfSharkVPN-Germany 14
+      - SurfSharkVPN-Germany 15
+      - SurfSharkVPN-Germany 16
+      - SurfSharkVPN-Germany 17
+      - SurfSharkVPN-Germany 18
+      - SurfSharkVPN-Germany 19
+      - SurfSharkVPN-Germany 20
+      - SurfSharkVPN-Germany 21
+      - SurfSharkVPN-Germany 22
+      - SurfSharkVPN-Germany 23
+      - SurfSharkVPN-Germany 24
+      - SurfSharkVPN-Greece
+      - SurfSharkVPN-Greece 2
+      - SurfSharkVPN-Greece 3
+      - SurfSharkVPN-Greece 4
+      - SurfSharkVPN-Greece 5
+      - SurfSharkVPN-Greece 6
+      - SurfSharkVPN-Greece 7
+      - SurfSharkVPN-Greece 8
+      - SurfSharkVPN-Greece 9
+      - SurfSharkVPN-Greece 10
+      - SurfSharkVPN-Hungary
+      - SurfSharkVPN-Hungary 2
+      - SurfSharkVPN-Hungary 3
+      - SurfSharkVPN-Hungary 4
+      - SurfSharkVPN-Hungary 5
+      - SurfSharkVPN-Hungary 6
+      - SurfSharkVPN-Hungary 7
+      - SurfSharkVPN-Hungary 8
+      - SurfSharkVPN-Hungary 9
+      - SurfSharkVPN-Hungary 10
+      - SurfSharkVPN-Iceland
+      - SurfSharkVPN-Iceland 2
+      - SurfSharkVPN-Iceland 3
+      - SurfSharkVPN-Iceland 4
+      - SurfSharkVPN-Iceland 5
+      - SurfSharkVPN-Iceland 6
+      - SurfSharkVPN-Iceland 7
+      - SurfSharkVPN-Ireland
+      - SurfSharkVPN-Ireland 2
+      - SurfSharkVPN-Ireland 3
+      - SurfSharkVPN-Ireland 4
+      - SurfSharkVPN-Ireland 5
+      - SurfSharkVPN-Ireland 6
+      - SurfSharkVPN-Ireland 7
+      - SurfSharkVPN-Ireland 8
+      - SurfSharkVPN-Ireland 9
+      - SurfSharkVPN-Italy
+      - SurfSharkVPN-Italy 2
+      - SurfSharkVPN-Italy 3
+      - SurfSharkVPN-Italy 4
+      - SurfSharkVPN-Italy 5
+      - SurfSharkVPN-Italy 6
+      - SurfSharkVPN-Italy 7
+      - SurfSharkVPN-Italy 8
+      - SurfSharkVPN-Italy 9
+      - SurfSharkVPN-Italy 10
+      - SurfSharkVPN-Italy 11
+      - SurfSharkVPN-Italy 12
+      - SurfSharkVPN-Italy 13
+      - SurfSharkVPN-Italy 14
+      - SurfSharkVPN-Italy 15
+      - SurfSharkVPN-Italy 16
+  - name: ♻️ BESTPING
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - SurfSharkVPN-Albania
+      - SurfSharkVPN-Albania 2
+      - SurfSharkVPN-Albania 3
+      - SurfSharkVPN-Albania 4
+      - SurfSharkVPN-Albania 5
+      - SurfSharkVPN-Albania 6
+      - SurfSharkVPN-Albania 7
+      - SurfSharkVPN-Albania 8
+      - SurfSharkVPN-Albania 9
+      - SurfSharkVPN-Albania 10
+      - SurfSharkVPN-Austria
+      - SurfSharkVPN-Austria 2
+      - SurfSharkVPN-Austria 3
+      - SurfSharkVPN-Austria 4
+      - SurfSharkVPN-Austria 5
+      - SurfSharkVPN-Austria 6
+      - SurfSharkVPN-Austria 7
+      - SurfSharkVPN-Austria 8
+      - SurfSharkVPN-Austria 9
+      - SurfSharkVPN-Belgium
+      - SurfSharkVPN-Belgium 2
+      - SurfSharkVPN-Belgium 3
+      - SurfSharkVPN-Belgium 4
+      - SurfSharkVPN-Belgium 5
+      - SurfSharkVPN-Belgium 6
+      - SurfSharkVPN-Belgium 7
+      - SurfSharkVPN-Belgium 8
+      - SurfSharkVPN-Belgium 9
+      - SurfSharkVPN-Bosnia-and-Herzegovina
+      - SurfSharkVPN-Bosnia-and-Herzegovina 2
+      - SurfSharkVPN-Bosnia-and-Herzegovina 3
+      - SurfSharkVPN-Bosnia-and-Herzegovina 4
+      - SurfSharkVPN-Bosnia-and-Herzegovina 5
+      - SurfSharkVPN-Bosnia-and-Herzegovina 6
+      - SurfSharkVPN-Bosnia-and-Herzegovina 7
+      - SurfSharkVPN-Bosnia-and-Herzegovina 8
+      - SurfSharkVPN-Bosnia-and-Herzegovina 9
+      - SurfSharkVPN-Bosnia-and-Herzegovina 10
+      - SurfSharkVPN-Bulgaria
+      - SurfSharkVPN-Bulgaria 2
+      - SurfSharkVPN-Bulgaria 3
+      - SurfSharkVPN-Bulgaria 4
+      - SurfSharkVPN-Bulgaria 5
+      - SurfSharkVPN-Croatia
+      - SurfSharkVPN-Croatia 2
+      - SurfSharkVPN-Croatia 3
+      - SurfSharkVPN-Croatia 4
+      - SurfSharkVPN-Croatia 5
+      - SurfSharkVPN-Croatia 6
+      - SurfSharkVPN-Croatia 7
+      - SurfSharkVPN-Croatia 8
+      - SurfSharkVPN-Cyprus
+      - SurfSharkVPN-Cyprus 2
+      - SurfSharkVPN-Cyprus 3
+      - SurfSharkVPN-Cyprus 4
+      - SurfSharkVPN-Cyprus 5
+      - SurfSharkVPN-Cyprus 6
+      - SurfSharkVPN-Cyprus 7
+      - SurfSharkVPN-Cyprus 8
+      - SurfSharkVPN-Cyprus 9
+      - SurfSharkVPN-Cyprus 10
+      - SurfSharkVPN-Czechia
+      - SurfSharkVPN-Czechia 2
+      - SurfSharkVPN-Czechia 3
+      - SurfSharkVPN-Czechia 4
+      - SurfSharkVPN-Czechia 5
+      - SurfSharkVPN-Czechia 6
+      - SurfSharkVPN-Czechia 7
+      - SurfSharkVPN-Denmark
+      - SurfSharkVPN-Denmark 2
+      - SurfSharkVPN-Denmark 3
+      - SurfSharkVPN-Denmark 4
+      - SurfSharkVPN-Denmark 5
+      - SurfSharkVPN-Denmark 6
+      - SurfSharkVPN-Denmark 7
+      - SurfSharkVPN-Denmark 8
+      - SurfSharkVPN-Estonia
+      - SurfSharkVPN-Estonia 2
+      - SurfSharkVPN-Estonia 3
+      - SurfSharkVPN-Estonia 4
+      - SurfSharkVPN-Estonia 5
+      - SurfSharkVPN-Estonia 6
+      - SurfSharkVPN-Estonia 7
+      - SurfSharkVPN-Finland
+      - SurfSharkVPN-Finland 2
+      - SurfSharkVPN-Finland 3
+      - SurfSharkVPN-Finland 4
+      - SurfSharkVPN-Finland 5
+      - SurfSharkVPN-Finland 6
+      - SurfSharkVPN-France
+      - SurfSharkVPN-France 2
+      - SurfSharkVPN-France 3
+      - SurfSharkVPN-France 4
+      - SurfSharkVPN-France 5
+      - SurfSharkVPN-France 6
+      - SurfSharkVPN-France 7
+      - SurfSharkVPN-France 8
+      - SurfSharkVPN-France 9
+      - SurfSharkVPN-France 10
+      - SurfSharkVPN-France 11
+      - SurfSharkVPN-France 12
+      - SurfSharkVPN-France 13
+      - SurfSharkVPN-France 14
+      - SurfSharkVPN-France 15
+      - SurfSharkVPN-France 16
+      - SurfSharkVPN-France 17
+      - SurfSharkVPN-France 18
+      - SurfSharkVPN-France 19
+      - SurfSharkVPN-France 20
+      - SurfSharkVPN-France 21
+      - SurfSharkVPN-France 22
+      - SurfSharkVPN-France 23
+      - SurfSharkVPN-France 24
+      - SurfSharkVPN-France 25
+      - SurfSharkVPN-France 26
+      - SurfSharkVPN-France 27
+      - SurfSharkVPN-France 28
+      - SurfSharkVPN-France 29
+      - SurfSharkVPN-France 30
+      - SurfSharkVPN-Germany
+      - SurfSharkVPN-Germany 2
+      - SurfSharkVPN-Germany 3
+      - SurfSharkVPN-Germany 4
+      - SurfSharkVPN-Germany 5
+      - SurfSharkVPN-Germany 6
+      - SurfSharkVPN-Germany 7
+      - SurfSharkVPN-Germany 8
+      - SurfSharkVPN-Germany 9
+      - SurfSharkVPN-Germany 10
+      - SurfSharkVPN-Germany 11
+      - SurfSharkVPN-Germany 12
+      - SurfSharkVPN-Germany 13
+      - SurfSharkVPN-Germany 14
+      - SurfSharkVPN-Germany 15
+      - SurfSharkVPN-Germany 16
+      - SurfSharkVPN-Germany 17
+      - SurfSharkVPN-Germany 18
+      - SurfSharkVPN-Germany 19
+      - SurfSharkVPN-Germany 20
+      - SurfSharkVPN-Germany 21
+      - SurfSharkVPN-Germany 22
+      - SurfSharkVPN-Germany 23
+      - SurfSharkVPN-Germany 24
+      - SurfSharkVPN-Greece
+      - SurfSharkVPN-Greece 2
+      - SurfSharkVPN-Greece 3
+      - SurfSharkVPN-Greece 4
+      - SurfSharkVPN-Greece 5
+      - SurfSharkVPN-Greece 6
+      - SurfSharkVPN-Greece 7
+      - SurfSharkVPN-Greece 8
+      - SurfSharkVPN-Greece 9
+      - SurfSharkVPN-Greece 10
+      - SurfSharkVPN-Hungary
+      - SurfSharkVPN-Hungary 2
+      - SurfSharkVPN-Hungary 3
+      - SurfSharkVPN-Hungary 4
+      - SurfSharkVPN-Hungary 5
+      - SurfSharkVPN-Hungary 6
+      - SurfSharkVPN-Hungary 7
+      - SurfSharkVPN-Hungary 8
+      - SurfSharkVPN-Hungary 9
+      - SurfSharkVPN-Hungary 10
+      - SurfSharkVPN-Iceland
+      - SurfSharkVPN-Iceland 2
+      - SurfSharkVPN-Iceland 3
+      - SurfSharkVPN-Iceland 4
+      - SurfSharkVPN-Iceland 5
+      - SurfSharkVPN-Iceland 6
+      - SurfSharkVPN-Iceland 7
+      - SurfSharkVPN-Ireland
+      - SurfSharkVPN-Ireland 2
+      - SurfSharkVPN-Ireland 3
+      - SurfSharkVPN-Ireland 4
+      - SurfSharkVPN-Ireland 5
+      - SurfSharkVPN-Ireland 6
+      - SurfSharkVPN-Ireland 7
+      - SurfSharkVPN-Ireland 8
+      - SurfSharkVPN-Ireland 9
+      - SurfSharkVPN-Italy
+      - SurfSharkVPN-Italy 2
+      - SurfSharkVPN-Italy 3
+      - SurfSharkVPN-Italy 4
+      - SurfSharkVPN-Italy 5
+      - SurfSharkVPN-Italy 6
+      - SurfSharkVPN-Italy 7
+      - SurfSharkVPN-Italy 8
+      - SurfSharkVPN-Italy 9
+      - SurfSharkVPN-Italy 10
+      - SurfSharkVPN-Italy 11
+      - SurfSharkVPN-Italy 12
+      - SurfSharkVPN-Italy 13
+      - SurfSharkVPN-Italy 14
+      - SurfSharkVPN-Italy 15
+      - SurfSharkVPN-Italy 16
+rules:
+ - MATCH,♻️ BESTPING,🔰 SELECT
