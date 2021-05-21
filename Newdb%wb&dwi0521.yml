@@ -15,600 +15,600 @@ dns:
     - 1.1.1.1
     - 8.8.8.8
 proxies:
-  - {name: SurfSharkVPN-Albania, server: 31.171.153.133, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 2, server: 31.171.152.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 3, server: 31.171.155.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 4, server: 31.171.155.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 5, server: 31.171.155.69, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 6, server: 31.171.153.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 7, server: 31.171.153.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 8, server: 31.171.153.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 9, server: 31.171.153.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Albania 10, server: 31.171.155.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria, server: 89.187.168.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 2, server: 89.187.168.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 3, server: 5.253.207.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 4, server: 37.120.212.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 5, server: 37.120.212.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 6, server: 5.253.207.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 7, server: 5.253.207.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 8, server: 37.120.212.77, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Austria 9, server: 89.187.168.44, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium, server: 91.90.123.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 2, server: 91.90.123.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 3, server: 91.90.123.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 4, server: 91.90.123.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 5, server: 37.120.236.155, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 6, server: 91.90.123.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 7, server: 91.90.123.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 8, server: 89.249.73.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Belgium 9, server: 37.120.218.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina, server: 185.99.3.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 2, server: 185.99.3.146, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 3, server: 185.99.3.207, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 4, server: 185.164.34.250, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 5, server: 185.99.3.108, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 6, server: 185.99.3.98, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 7, server: 185.212.111.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 8, server: 185.212.111.6, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 9, server: 185.99.3.12, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bosnia-and-Herzegovina 10, server: 185.212.111.41, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bulgaria, server: 217.138.202.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bulgaria 2, server: 37.120.152.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bulgaria 3, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bulgaria 4, server: 37.120.152.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Bulgaria 5, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia, server: 89.164.99.134, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 2, server: 89.164.99.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 3, server: 176.222.34.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 4, server: 85.10.50.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 5, server: 89.164.99.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 6, server: 85.10.51.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 7, server: 85.10.50.166, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Croatia 8, server: 85.10.56.190, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus, server: 195.47.194.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 2, server: 195.47.194.58, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 3, server: 195.47.194.56, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 4, server: 195.47.194.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 5, server: 195.47.194.68, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 6, server: 195.47.194.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 7, server: 195.47.194.79, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 8, server: 195.47.194.81, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 9, server: 195.47.194.87, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Cyprus 10, server: 195.47.194.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia, server: 217.138.220.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 2, server: 193.9.112.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 3, server: 193.9.112.181, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 4, server: 217.138.220.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 5, server: 217.138.199.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 6, server: 217.138.220.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Czechia 7, server: 217.138.220.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark, server: 193.29.107.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 2, server: 95.174.65.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 3, server: 193.29.107.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 4, server: 193.29.107.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 5, server: 45.12.221.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 6, server: 193.29.107.173, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 7, server: 193.29.107.163, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Denmark 8, server: 193.29.107.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia, server: 185.174.159.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 2, server: 165.231.163.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 3, server: 165.231.163.7, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 4, server: 165.231.163.3, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 5, server: 165.231.163.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 6, server: 185.174.159.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Estonia 7, server: 185.174.159.138, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland, server: 196.244.191.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland 2, server: 196.244.191.45, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland 3, server: 196.244.191.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland 4, server: 196.244.191.37, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland 5, server: 196.244.191.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Finland 6, server: 196.244.191.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France, server: 185.108.106.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 2, server: 185.108.106.26, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 3, server: 185.108.106.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 4, server: 185.108.106.102, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 5, server: 185.108.106.174, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 6, server: 185.108.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 7, server: 185.108.106.140, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 8, server: 185.108.106.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 9, server: 185.108.106.176, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 10, server: 185.108.106.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 11, server: 84.247.51.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 12, server: 143.244.57.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 13, server: 45.89.174.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 14, server: 45.89.174.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 15, server: 143.244.57.103, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 16, server: 84.17.60.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 17, server: 143.244.57.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 18, server: 217.138.207.253, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 19, server: 84.17.43.183, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 20, server: 217.138.207.245, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 21, server: 185.166.84.57, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 22, server: 185.166.84.23, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 23, server: 185.166.84.33, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 24, server: 138.199.16.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 25, server: 185.166.84.31, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 26, server: 138.199.16.137, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 27, server: 185.166.84.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 28, server: 185.166.84.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 29, server: 138.199.16.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-France 30, server: 185.166.84.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany, server: 156.146.33.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 2, server: 37.120.197.13, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 3, server: 185.102.219.47, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 4, server: 185.220.70.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 5, server: 185.158.135.36, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 6, server: 156.146.33.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 7, server: 156.146.33.65, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 8, server: 37.120.196.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 9, server: 37.120.197.11, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 10, server: 217.138.216.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 11, server: 193.29.106.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 12, server: 193.29.106.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 13, server: 193.29.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 14, server: 152.89.163.247, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 15, server: 193.29.106.29, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 16, server: 193.29.106.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 17, server: 193.29.106.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 18, server: 193.29.106.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 19, server: 193.29.106.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 20, server: 79.143.191.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 21, server: 79.143.191.231, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 22, server: 62.171.151.160, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 23, server: 144.91.123.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Germany 24, server: 62.171.151.158, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece, server: 194.150.167.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 2, server: 194.150.167.34, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 3, server: 194.150.167.38, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 4, server: 194.150.167.32, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 5, server: 194.150.167.48, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 6, server: 194.150.167.28, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 7, server: 194.150.167.30, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 8, server: 194.150.167.42, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 9, server: 194.150.167.40, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Greece 10, server: 194.150.167.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary, server: 37.120.144.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 2, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 3, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 4, server: 37.120.144.215, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 5, server: 37.120.144.213, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 6, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 7, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 8, server: 37.120.144.151, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 9, server: 37.120.144.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Hungary 10, server: 37.120.144.199, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 2, server: 45.133.193.219, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 3, server: 45.133.193.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 4, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 5, server: 45.133.193.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 6, server: 45.133.193.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Iceland 7, server: 45.133.193.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland, server: 37.120.235.205, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 2, server: 5.157.13.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 3, server: 37.120.235.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 4, server: 185.252.222.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 5, server: 5.157.13.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 6, server: 37.120.235.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 7, server: 37.120.235.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 8, server: 5.157.13.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Ireland 9, server: 37.120.235.227, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 2, server: 37.120.201.71, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 3, server: 37.120.201.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 4, server: 45.9.251.167, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 5, server: 212.102.54.180, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 6, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 7, server: 212.102.54.162, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 8, server: 84.17.58.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 9, server: 84.17.58.202, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 10, server: 82.102.26.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 11, server: 37.120.207.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 12, server: 82.102.26.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 13, server: 185.217.71.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 14, server: 82.102.26.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 15, server: 82.102.26.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
-  - {name: SurfSharkVPN-Italy 16, server: 82.102.26.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania, server: 31.171.153.133, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 2, server: 31.171.152.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 3, server: 31.171.155.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 4, server: 31.171.155.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 5, server: 31.171.155.69, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 6, server: 31.171.153.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 7, server: 31.171.153.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 8, server: 31.171.153.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 9, server: 31.171.153.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Albania 10, server: 31.171.155.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria, server: 89.187.168.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 2, server: 89.187.168.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 3, server: 5.253.207.51, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 4, server: 37.120.212.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 5, server: 37.120.212.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 6, server: 5.253.207.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 7, server: 5.253.207.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 8, server: 37.120.212.77, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Austria 9, server: 89.187.168.44, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium, server: 91.90.123.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 2, server: 91.90.123.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 3, server: 91.90.123.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 4, server: 91.90.123.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 5, server: 37.120.236.155, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 6, server: 91.90.123.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 7, server: 91.90.123.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 8, server: 89.249.73.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Belgium 9, server: 37.120.218.19, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina, server: 185.99.3.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 2, server: 185.99.3.146, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 3, server: 185.99.3.207, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 4, server: 185.164.34.250, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 5, server: 185.99.3.108, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 6, server: 185.99.3.98, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 7, server: 185.212.111.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 8, server: 185.212.111.6, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 9, server: 185.99.3.12, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bosnia-and-Herzegovina 10, server: 185.212.111.41, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bulgaria, server: 217.138.202.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bulgaria 2, server: 37.120.152.39, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bulgaria 3, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bulgaria 4, server: 37.120.152.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Bulgaria 5, server: 37.120.152.195, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia, server: 89.164.99.134, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 2, server: 89.164.99.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 3, server: 176.222.34.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 4, server: 85.10.50.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 5, server: 89.164.99.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 6, server: 85.10.51.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 7, server: 85.10.50.166, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Croatia 8, server: 85.10.56.190, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus, server: 195.47.194.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 2, server: 195.47.194.58, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 3, server: 195.47.194.56, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 4, server: 195.47.194.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 5, server: 195.47.194.68, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 6, server: 195.47.194.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 7, server: 195.47.194.79, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 8, server: 195.47.194.81, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 9, server: 195.47.194.87, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Cyprus 10, server: 195.47.194.89, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia, server: 217.138.220.187, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 2, server: 193.9.112.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 3, server: 193.9.112.181, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 4, server: 217.138.220.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 5, server: 217.138.199.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 6, server: 217.138.220.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Czechia 7, server: 217.138.220.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark, server: 193.29.107.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 2, server: 95.174.65.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 3, server: 193.29.107.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 4, server: 193.29.107.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 5, server: 45.12.221.165, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 6, server: 193.29.107.173, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 7, server: 193.29.107.163, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Denmark 8, server: 193.29.107.179, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia, server: 185.174.159.136, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 2, server: 165.231.163.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 3, server: 165.231.163.7, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 4, server: 165.231.163.3, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 5, server: 165.231.163.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 6, server: 185.174.159.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Estonia 7, server: 185.174.159.138, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland, server: 196.244.191.35, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland 2, server: 196.244.191.45, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland 3, server: 196.244.191.197, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland 4, server: 196.244.191.37, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland 5, server: 196.244.191.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Finland 6, server: 196.244.191.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France, server: 185.108.106.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 2, server: 185.108.106.26, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 3, server: 185.108.106.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 4, server: 185.108.106.102, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 5, server: 185.108.106.174, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 6, server: 185.108.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 7, server: 185.108.106.140, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 8, server: 185.108.106.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 9, server: 185.108.106.176, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 10, server: 185.108.106.100, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 11, server: 84.247.51.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 12, server: 143.244.57.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 13, server: 45.89.174.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 14, server: 45.89.174.99, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 15, server: 143.244.57.103, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 16, server: 84.17.60.235, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 17, server: 143.244.57.106, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 18, server: 217.138.207.253, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 19, server: 84.17.43.183, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 20, server: 217.138.207.245, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 21, server: 185.166.84.57, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 22, server: 185.166.84.23, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 23, server: 185.166.84.33, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 24, server: 138.199.16.142, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 25, server: 185.166.84.31, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 26, server: 138.199.16.137, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 27, server: 185.166.84.21, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 28, server: 185.166.84.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 29, server: 138.199.16.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: France 30, server: 185.166.84.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany, server: 156.146.33.73, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 2, server: 37.120.197.13, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 3, server: 185.102.219.47, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 4, server: 185.220.70.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 5, server: 185.158.135.36, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 6, server: 156.146.33.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 7, server: 156.146.33.65, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 8, server: 37.120.196.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 9, server: 37.120.197.11, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 10, server: 217.138.216.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 11, server: 193.29.106.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 12, server: 193.29.106.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 13, server: 193.29.106.53, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 14, server: 152.89.163.247, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 15, server: 193.29.106.29, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 16, server: 193.29.106.125, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 17, server: 193.29.106.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 18, server: 193.29.106.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 19, server: 193.29.106.5, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 20, server: 79.143.191.141, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 21, server: 79.143.191.231, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 22, server: 62.171.151.160, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 23, server: 144.91.123.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Germany 24, server: 62.171.151.158, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece, server: 194.150.167.52, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 2, server: 194.150.167.34, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 3, server: 194.150.167.38, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 4, server: 194.150.167.32, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 5, server: 194.150.167.48, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 6, server: 194.150.167.28, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 7, server: 194.150.167.30, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 8, server: 194.150.167.42, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 9, server: 194.150.167.40, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Greece 10, server: 194.150.167.54, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary, server: 37.120.144.147, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 2, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 3, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 4, server: 37.120.144.215, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 5, server: 37.120.144.213, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 6, server: 37.120.144.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 7, server: 37.120.144.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 8, server: 37.120.144.151, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 9, server: 37.120.144.149, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Hungary 10, server: 37.120.144.199, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 2, server: 45.133.193.219, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 3, server: 45.133.193.211, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 4, server: 45.133.193.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 5, server: 45.133.193.117, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 6, server: 45.133.193.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Iceland 7, server: 45.133.193.109, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland, server: 37.120.235.205, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 2, server: 5.157.13.107, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 3, server: 37.120.235.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 4, server: 185.252.222.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 5, server: 5.157.13.85, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 6, server: 37.120.235.83, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 7, server: 37.120.235.75, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 8, server: 5.157.13.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Ireland 9, server: 37.120.235.227, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 2, server: 37.120.201.71, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 3, server: 37.120.201.67, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 4, server: 45.9.251.167, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 5, server: 212.102.54.180, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 6, server: 212.102.54.175, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 7, server: 212.102.54.162, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 8, server: 84.17.58.164, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 9, server: 84.17.58.202, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 10, server: 82.102.26.61, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 11, server: 37.120.207.115, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 12, server: 82.102.26.59, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 13, server: 185.217.71.243, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 14, server: 82.102.26.93, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 15, server: 82.102.26.91, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
+  - {name: Italy 16, server: 82.102.26.101, port: 43923, type: ss, cipher: aes-256-gcm, password: LPdNj6ZpzF6GQ4NC7sYyXey3}
 proxy-groups:
   - name: 🔰 SELECT
     type: select
     proxies:
       - ♻️ BESTPING
-      - SurfSharkVPN-Albania
-      - SurfSharkVPN-Albania 2
-      - SurfSharkVPN-Albania 3
-      - SurfSharkVPN-Albania 4
-      - SurfSharkVPN-Albania 5
-      - SurfSharkVPN-Albania 6
-      - SurfSharkVPN-Albania 7
-      - SurfSharkVPN-Albania 8
-      - SurfSharkVPN-Albania 9
-      - SurfSharkVPN-Albania 10
-      - SurfSharkVPN-Austria
-      - SurfSharkVPN-Austria 2
-      - SurfSharkVPN-Austria 3
-      - SurfSharkVPN-Austria 4
-      - SurfSharkVPN-Austria 5
-      - SurfSharkVPN-Austria 6
-      - SurfSharkVPN-Austria 7
-      - SurfSharkVPN-Austria 8
-      - SurfSharkVPN-Austria 9
-      - SurfSharkVPN-Belgium
-      - SurfSharkVPN-Belgium 2
-      - SurfSharkVPN-Belgium 3
-      - SurfSharkVPN-Belgium 4
-      - SurfSharkVPN-Belgium 5
-      - SurfSharkVPN-Belgium 6
-      - SurfSharkVPN-Belgium 7
-      - SurfSharkVPN-Belgium 8
-      - SurfSharkVPN-Belgium 9
-      - SurfSharkVPN-Bosnia-and-Herzegovina
-      - SurfSharkVPN-Bosnia-and-Herzegovina 2
-      - SurfSharkVPN-Bosnia-and-Herzegovina 3
-      - SurfSharkVPN-Bosnia-and-Herzegovina 4
-      - SurfSharkVPN-Bosnia-and-Herzegovina 5
-      - SurfSharkVPN-Bosnia-and-Herzegovina 6
-      - SurfSharkVPN-Bosnia-and-Herzegovina 7
-      - SurfSharkVPN-Bosnia-and-Herzegovina 8
-      - SurfSharkVPN-Bosnia-and-Herzegovina 9
-      - SurfSharkVPN-Bosnia-and-Herzegovina 10
-      - SurfSharkVPN-Bulgaria
-      - SurfSharkVPN-Bulgaria 2
-      - SurfSharkVPN-Bulgaria 3
-      - SurfSharkVPN-Bulgaria 4
-      - SurfSharkVPN-Bulgaria 5
-      - SurfSharkVPN-Croatia
-      - SurfSharkVPN-Croatia 2
-      - SurfSharkVPN-Croatia 3
-      - SurfSharkVPN-Croatia 4
-      - SurfSharkVPN-Croatia 5
-      - SurfSharkVPN-Croatia 6
-      - SurfSharkVPN-Croatia 7
-      - SurfSharkVPN-Croatia 8
-      - SurfSharkVPN-Cyprus
-      - SurfSharkVPN-Cyprus 2
-      - SurfSharkVPN-Cyprus 3
-      - SurfSharkVPN-Cyprus 4
-      - SurfSharkVPN-Cyprus 5
-      - SurfSharkVPN-Cyprus 6
-      - SurfSharkVPN-Cyprus 7
-      - SurfSharkVPN-Cyprus 8
-      - SurfSharkVPN-Cyprus 9
-      - SurfSharkVPN-Cyprus 10
-      - SurfSharkVPN-Czechia
-      - SurfSharkVPN-Czechia 2
-      - SurfSharkVPN-Czechia 3
-      - SurfSharkVPN-Czechia 4
-      - SurfSharkVPN-Czechia 5
-      - SurfSharkVPN-Czechia 6
-      - SurfSharkVPN-Czechia 7
-      - SurfSharkVPN-Denmark
-      - SurfSharkVPN-Denmark 2
-      - SurfSharkVPN-Denmark 3
-      - SurfSharkVPN-Denmark 4
-      - SurfSharkVPN-Denmark 5
-      - SurfSharkVPN-Denmark 6
-      - SurfSharkVPN-Denmark 7
-      - SurfSharkVPN-Denmark 8
-      - SurfSharkVPN-Estonia
-      - SurfSharkVPN-Estonia 2
-      - SurfSharkVPN-Estonia 3
-      - SurfSharkVPN-Estonia 4
-      - SurfSharkVPN-Estonia 5
-      - SurfSharkVPN-Estonia 6
-      - SurfSharkVPN-Estonia 7
-      - SurfSharkVPN-Finland
-      - SurfSharkVPN-Finland 2
-      - SurfSharkVPN-Finland 3
-      - SurfSharkVPN-Finland 4
-      - SurfSharkVPN-Finland 5
-      - SurfSharkVPN-Finland 6
-      - SurfSharkVPN-France
-      - SurfSharkVPN-France 2
-      - SurfSharkVPN-France 3
-      - SurfSharkVPN-France 4
-      - SurfSharkVPN-France 5
-      - SurfSharkVPN-France 6
-      - SurfSharkVPN-France 7
-      - SurfSharkVPN-France 8
-      - SurfSharkVPN-France 9
-      - SurfSharkVPN-France 10
-      - SurfSharkVPN-France 11
-      - SurfSharkVPN-France 12
-      - SurfSharkVPN-France 13
-      - SurfSharkVPN-France 14
-      - SurfSharkVPN-France 15
-      - SurfSharkVPN-France 16
-      - SurfSharkVPN-France 17
-      - SurfSharkVPN-France 18
-      - SurfSharkVPN-France 19
-      - SurfSharkVPN-France 20
-      - SurfSharkVPN-France 21
-      - SurfSharkVPN-France 22
-      - SurfSharkVPN-France 23
-      - SurfSharkVPN-France 24
-      - SurfSharkVPN-France 25
-      - SurfSharkVPN-France 26
-      - SurfSharkVPN-France 27
-      - SurfSharkVPN-France 28
-      - SurfSharkVPN-France 29
-      - SurfSharkVPN-France 30
-      - SurfSharkVPN-Germany
-      - SurfSharkVPN-Germany 2
-      - SurfSharkVPN-Germany 3
-      - SurfSharkVPN-Germany 4
-      - SurfSharkVPN-Germany 5
-      - SurfSharkVPN-Germany 6
-      - SurfSharkVPN-Germany 7
-      - SurfSharkVPN-Germany 8
-      - SurfSharkVPN-Germany 9
-      - SurfSharkVPN-Germany 10
-      - SurfSharkVPN-Germany 11
-      - SurfSharkVPN-Germany 12
-      - SurfSharkVPN-Germany 13
-      - SurfSharkVPN-Germany 14
-      - SurfSharkVPN-Germany 15
-      - SurfSharkVPN-Germany 16
-      - SurfSharkVPN-Germany 17
-      - SurfSharkVPN-Germany 18
-      - SurfSharkVPN-Germany 19
-      - SurfSharkVPN-Germany 20
-      - SurfSharkVPN-Germany 21
-      - SurfSharkVPN-Germany 22
-      - SurfSharkVPN-Germany 23
-      - SurfSharkVPN-Germany 24
-      - SurfSharkVPN-Greece
-      - SurfSharkVPN-Greece 2
-      - SurfSharkVPN-Greece 3
-      - SurfSharkVPN-Greece 4
-      - SurfSharkVPN-Greece 5
-      - SurfSharkVPN-Greece 6
-      - SurfSharkVPN-Greece 7
-      - SurfSharkVPN-Greece 8
-      - SurfSharkVPN-Greece 9
-      - SurfSharkVPN-Greece 10
-      - SurfSharkVPN-Hungary
-      - SurfSharkVPN-Hungary 2
-      - SurfSharkVPN-Hungary 3
-      - SurfSharkVPN-Hungary 4
-      - SurfSharkVPN-Hungary 5
-      - SurfSharkVPN-Hungary 6
-      - SurfSharkVPN-Hungary 7
-      - SurfSharkVPN-Hungary 8
-      - SurfSharkVPN-Hungary 9
-      - SurfSharkVPN-Hungary 10
-      - SurfSharkVPN-Iceland
-      - SurfSharkVPN-Iceland 2
-      - SurfSharkVPN-Iceland 3
-      - SurfSharkVPN-Iceland 4
-      - SurfSharkVPN-Iceland 5
-      - SurfSharkVPN-Iceland 6
-      - SurfSharkVPN-Iceland 7
-      - SurfSharkVPN-Ireland
-      - SurfSharkVPN-Ireland 2
-      - SurfSharkVPN-Ireland 3
-      - SurfSharkVPN-Ireland 4
-      - SurfSharkVPN-Ireland 5
-      - SurfSharkVPN-Ireland 6
-      - SurfSharkVPN-Ireland 7
-      - SurfSharkVPN-Ireland 8
-      - SurfSharkVPN-Ireland 9
-      - SurfSharkVPN-Italy
-      - SurfSharkVPN-Italy 2
-      - SurfSharkVPN-Italy 3
-      - SurfSharkVPN-Italy 4
-      - SurfSharkVPN-Italy 5
-      - SurfSharkVPN-Italy 6
-      - SurfSharkVPN-Italy 7
-      - SurfSharkVPN-Italy 8
-      - SurfSharkVPN-Italy 9
-      - SurfSharkVPN-Italy 10
-      - SurfSharkVPN-Italy 11
-      - SurfSharkVPN-Italy 12
-      - SurfSharkVPN-Italy 13
-      - SurfSharkVPN-Italy 14
-      - SurfSharkVPN-Italy 15
-      - SurfSharkVPN-Italy 16
+      - Albania
+      - Albania 2
+      - Albania 3
+      - Albania 4
+      - Albania 5
+      - Albania 6
+      - Albania 7
+      - Albania 8
+      - Albania 9
+      - Albania 10
+      - Austria
+      - Austria 2
+      - Austria 3
+      - Austria 4
+      - Austria 5
+      - Austria 6
+      - Austria 7
+      - Austria 8
+      - Austria 9
+      - Belgium
+      - Belgium 2
+      - Belgium 3
+      - Belgium 4
+      - Belgium 5
+      - Belgium 6
+      - Belgium 7
+      - Belgium 8
+      - Belgium 9
+      - Bosnia-and-Herzegovina
+      - Bosnia-and-Herzegovina 2
+      - Bosnia-and-Herzegovina 3
+      - Bosnia-and-Herzegovina 4
+      - Bosnia-and-Herzegovina 5
+      - Bosnia-and-Herzegovina 6
+      - Bosnia-and-Herzegovina 7
+      - Bosnia-and-Herzegovina 8
+      - Bosnia-and-Herzegovina 9
+      - Bosnia-and-Herzegovina 10
+      - Bulgaria
+      - Bulgaria 2
+      - Bulgaria 3
+      - Bulgaria 4
+      - Bulgaria 5
+      - Croatia
+      - Croatia 2
+      - Croatia 3
+      - Croatia 4
+      - Croatia 5
+      - Croatia 6
+      - Croatia 7
+      - Croatia 8
+      - Cyprus
+      - Cyprus 2
+      - Cyprus 3
+      - Cyprus 4
+      - Cyprus 5
+      - Cyprus 6
+      - Cyprus 7
+      - Cyprus 8
+      - Cyprus 9
+      - Cyprus 10
+      - Czechia
+      - Czechia 2
+      - Czechia 3
+      - Czechia 4
+      - Czechia 5
+      - Czechia 6
+      - Czechia 7
+      - Denmark
+      - Denmark 2
+      - Denmark 3
+      - Denmark 4
+      - Denmark 5
+      - Denmark 6
+      - Denmark 7
+      - Denmark 8
+      - Estonia
+      - Estonia 2
+      - Estonia 3
+      - Estonia 4
+      - Estonia 5
+      - Estonia 6
+      - Estonia 7
+      - Finland
+      - Finland 2
+      - Finland 3
+      - Finland 4
+      - Finland 5
+      - Finland 6
+      - France
+      - France 2
+      - France 3
+      - France 4
+      - France 5
+      - France 6
+      - France 7
+      - France 8
+      - France 9
+      - France 10
+      - France 11
+      - France 12
+      - France 13
+      - France 14
+      - France 15
+      - France 16
+      - France 17
+      - France 18
+      - France 19
+      - France 20
+      - France 21
+      - France 22
+      - France 23
+      - France 24
+      - France 25
+      - France 26
+      - France 27
+      - France 28
+      - France 29
+      - France 30
+      - Germany
+      - Germany 2
+      - Germany 3
+      - Germany 4
+      - Germany 5
+      - Germany 6
+      - Germany 7
+      - Germany 8
+      - Germany 9
+      - Germany 10
+      - Germany 11
+      - Germany 12
+      - Germany 13
+      - Germany 14
+      - Germany 15
+      - Germany 16
+      - Germany 17
+      - Germany 18
+      - Germany 19
+      - Germany 20
+      - Germany 21
+      - Germany 22
+      - Germany 23
+      - Germany 24
+      - Greece
+      - Greece 2
+      - Greece 3
+      - Greece 4
+      - Greece 5
+      - Greece 6
+      - Greece 7
+      - Greece 8
+      - Greece 9
+      - Greece 10
+      - Hungary
+      - Hungary 2
+      - Hungary 3
+      - Hungary 4
+      - Hungary 5
+      - Hungary 6
+      - Hungary 7
+      - Hungary 8
+      - Hungary 9
+      - Hungary 10
+      - Iceland
+      - Iceland 2
+      - Iceland 3
+      - Iceland 4
+      - Iceland 5
+      - Iceland 6
+      - Iceland 7
+      - Ireland
+      - Ireland 2
+      - Ireland 3
+      - Ireland 4
+      - Ireland 5
+      - Ireland 6
+      - Ireland 7
+      - Ireland 8
+      - Ireland 9
+      - Italy
+      - Italy 2
+      - Italy 3
+      - Italy 4
+      - Italy 5
+      - Italy 6
+      - Italy 7
+      - Italy 8
+      - Italy 9
+      - Italy 10
+      - Italy 11
+      - Italy 12
+      - Italy 13
+      - Italy 14
+      - Italy 15
+      - Italy 16
   - name: ♻️ BESTPING
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - SurfSharkVPN-Albania
-      - SurfSharkVPN-Albania 2
-      - SurfSharkVPN-Albania 3
-      - SurfSharkVPN-Albania 4
-      - SurfSharkVPN-Albania 5
-      - SurfSharkVPN-Albania 6
-      - SurfSharkVPN-Albania 7
-      - SurfSharkVPN-Albania 8
-      - SurfSharkVPN-Albania 9
-      - SurfSharkVPN-Albania 10
-      - SurfSharkVPN-Austria
-      - SurfSharkVPN-Austria 2
-      - SurfSharkVPN-Austria 3
-      - SurfSharkVPN-Austria 4
-      - SurfSharkVPN-Austria 5
-      - SurfSharkVPN-Austria 6
-      - SurfSharkVPN-Austria 7
-      - SurfSharkVPN-Austria 8
-      - SurfSharkVPN-Austria 9
-      - SurfSharkVPN-Belgium
-      - SurfSharkVPN-Belgium 2
-      - SurfSharkVPN-Belgium 3
-      - SurfSharkVPN-Belgium 4
-      - SurfSharkVPN-Belgium 5
-      - SurfSharkVPN-Belgium 6
-      - SurfSharkVPN-Belgium 7
-      - SurfSharkVPN-Belgium 8
-      - SurfSharkVPN-Belgium 9
-      - SurfSharkVPN-Bosnia-and-Herzegovina
-      - SurfSharkVPN-Bosnia-and-Herzegovina 2
-      - SurfSharkVPN-Bosnia-and-Herzegovina 3
-      - SurfSharkVPN-Bosnia-and-Herzegovina 4
-      - SurfSharkVPN-Bosnia-and-Herzegovina 5
-      - SurfSharkVPN-Bosnia-and-Herzegovina 6
-      - SurfSharkVPN-Bosnia-and-Herzegovina 7
-      - SurfSharkVPN-Bosnia-and-Herzegovina 8
-      - SurfSharkVPN-Bosnia-and-Herzegovina 9
-      - SurfSharkVPN-Bosnia-and-Herzegovina 10
-      - SurfSharkVPN-Bulgaria
-      - SurfSharkVPN-Bulgaria 2
-      - SurfSharkVPN-Bulgaria 3
-      - SurfSharkVPN-Bulgaria 4
-      - SurfSharkVPN-Bulgaria 5
-      - SurfSharkVPN-Croatia
-      - SurfSharkVPN-Croatia 2
-      - SurfSharkVPN-Croatia 3
-      - SurfSharkVPN-Croatia 4
-      - SurfSharkVPN-Croatia 5
-      - SurfSharkVPN-Croatia 6
-      - SurfSharkVPN-Croatia 7
-      - SurfSharkVPN-Croatia 8
-      - SurfSharkVPN-Cyprus
-      - SurfSharkVPN-Cyprus 2
-      - SurfSharkVPN-Cyprus 3
-      - SurfSharkVPN-Cyprus 4
-      - SurfSharkVPN-Cyprus 5
-      - SurfSharkVPN-Cyprus 6
-      - SurfSharkVPN-Cyprus 7
-      - SurfSharkVPN-Cyprus 8
-      - SurfSharkVPN-Cyprus 9
-      - SurfSharkVPN-Cyprus 10
-      - SurfSharkVPN-Czechia
-      - SurfSharkVPN-Czechia 2
-      - SurfSharkVPN-Czechia 3
-      - SurfSharkVPN-Czechia 4
-      - SurfSharkVPN-Czechia 5
-      - SurfSharkVPN-Czechia 6
-      - SurfSharkVPN-Czechia 7
-      - SurfSharkVPN-Denmark
-      - SurfSharkVPN-Denmark 2
-      - SurfSharkVPN-Denmark 3
-      - SurfSharkVPN-Denmark 4
-      - SurfSharkVPN-Denmark 5
-      - SurfSharkVPN-Denmark 6
-      - SurfSharkVPN-Denmark 7
-      - SurfSharkVPN-Denmark 8
-      - SurfSharkVPN-Estonia
-      - SurfSharkVPN-Estonia 2
-      - SurfSharkVPN-Estonia 3
-      - SurfSharkVPN-Estonia 4
-      - SurfSharkVPN-Estonia 5
-      - SurfSharkVPN-Estonia 6
-      - SurfSharkVPN-Estonia 7
-      - SurfSharkVPN-Finland
-      - SurfSharkVPN-Finland 2
-      - SurfSharkVPN-Finland 3
-      - SurfSharkVPN-Finland 4
-      - SurfSharkVPN-Finland 5
-      - SurfSharkVPN-Finland 6
-      - SurfSharkVPN-France
-      - SurfSharkVPN-France 2
-      - SurfSharkVPN-France 3
-      - SurfSharkVPN-France 4
-      - SurfSharkVPN-France 5
-      - SurfSharkVPN-France 6
-      - SurfSharkVPN-France 7
-      - SurfSharkVPN-France 8
-      - SurfSharkVPN-France 9
-      - SurfSharkVPN-France 10
-      - SurfSharkVPN-France 11
-      - SurfSharkVPN-France 12
-      - SurfSharkVPN-France 13
-      - SurfSharkVPN-France 14
-      - SurfSharkVPN-France 15
-      - SurfSharkVPN-France 16
-      - SurfSharkVPN-France 17
-      - SurfSharkVPN-France 18
-      - SurfSharkVPN-France 19
-      - SurfSharkVPN-France 20
-      - SurfSharkVPN-France 21
-      - SurfSharkVPN-France 22
-      - SurfSharkVPN-France 23
-      - SurfSharkVPN-France 24
-      - SurfSharkVPN-France 25
-      - SurfSharkVPN-France 26
-      - SurfSharkVPN-France 27
-      - SurfSharkVPN-France 28
-      - SurfSharkVPN-France 29
-      - SurfSharkVPN-France 30
-      - SurfSharkVPN-Germany
-      - SurfSharkVPN-Germany 2
-      - SurfSharkVPN-Germany 3
-      - SurfSharkVPN-Germany 4
-      - SurfSharkVPN-Germany 5
-      - SurfSharkVPN-Germany 6
-      - SurfSharkVPN-Germany 7
-      - SurfSharkVPN-Germany 8
-      - SurfSharkVPN-Germany 9
-      - SurfSharkVPN-Germany 10
-      - SurfSharkVPN-Germany 11
-      - SurfSharkVPN-Germany 12
-      - SurfSharkVPN-Germany 13
-      - SurfSharkVPN-Germany 14
-      - SurfSharkVPN-Germany 15
-      - SurfSharkVPN-Germany 16
-      - SurfSharkVPN-Germany 17
-      - SurfSharkVPN-Germany 18
-      - SurfSharkVPN-Germany 19
-      - SurfSharkVPN-Germany 20
-      - SurfSharkVPN-Germany 21
-      - SurfSharkVPN-Germany 22
-      - SurfSharkVPN-Germany 23
-      - SurfSharkVPN-Germany 24
-      - SurfSharkVPN-Greece
-      - SurfSharkVPN-Greece 2
-      - SurfSharkVPN-Greece 3
-      - SurfSharkVPN-Greece 4
-      - SurfSharkVPN-Greece 5
-      - SurfSharkVPN-Greece 6
-      - SurfSharkVPN-Greece 7
-      - SurfSharkVPN-Greece 8
-      - SurfSharkVPN-Greece 9
-      - SurfSharkVPN-Greece 10
-      - SurfSharkVPN-Hungary
-      - SurfSharkVPN-Hungary 2
-      - SurfSharkVPN-Hungary 3
-      - SurfSharkVPN-Hungary 4
-      - SurfSharkVPN-Hungary 5
-      - SurfSharkVPN-Hungary 6
-      - SurfSharkVPN-Hungary 7
-      - SurfSharkVPN-Hungary 8
-      - SurfSharkVPN-Hungary 9
-      - SurfSharkVPN-Hungary 10
-      - SurfSharkVPN-Iceland
-      - SurfSharkVPN-Iceland 2
-      - SurfSharkVPN-Iceland 3
-      - SurfSharkVPN-Iceland 4
-      - SurfSharkVPN-Iceland 5
-      - SurfSharkVPN-Iceland 6
-      - SurfSharkVPN-Iceland 7
-      - SurfSharkVPN-Ireland
-      - SurfSharkVPN-Ireland 2
-      - SurfSharkVPN-Ireland 3
-      - SurfSharkVPN-Ireland 4
-      - SurfSharkVPN-Ireland 5
-      - SurfSharkVPN-Ireland 6
-      - SurfSharkVPN-Ireland 7
-      - SurfSharkVPN-Ireland 8
-      - SurfSharkVPN-Ireland 9
-      - SurfSharkVPN-Italy
-      - SurfSharkVPN-Italy 2
-      - SurfSharkVPN-Italy 3
-      - SurfSharkVPN-Italy 4
-      - SurfSharkVPN-Italy 5
-      - SurfSharkVPN-Italy 6
-      - SurfSharkVPN-Italy 7
-      - SurfSharkVPN-Italy 8
-      - SurfSharkVPN-Italy 9
-      - SurfSharkVPN-Italy 10
-      - SurfSharkVPN-Italy 11
-      - SurfSharkVPN-Italy 12
-      - SurfSharkVPN-Italy 13
-      - SurfSharkVPN-Italy 14
-      - SurfSharkVPN-Italy 15
-      - SurfSharkVPN-Italy 16
+      - Albania
+      - Albania 2
+      - Albania 3
+      - Albania 4
+      - Albania 5
+      - Albania 6
+      - Albania 7
+      - Albania 8
+      - Albania 9
+      - Albania 10
+      - Austria
+      - Austria 2
+      - Austria 3
+      - Austria 4
+      - Austria 5
+      - Austria 6
+      - Austria 7
+      - Austria 8
+      - Austria 9
+      - Belgium
+      - Belgium 2
+      - Belgium 3
+      - Belgium 4
+      - Belgium 5
+      - Belgium 6
+      - Belgium 7
+      - Belgium 8
+      - Belgium 9
+      - Bosnia-and-Herzegovina
+      - Bosnia-and-Herzegovina 2
+      - Bosnia-and-Herzegovina 3
+      - Bosnia-and-Herzegovina 4
+      - Bosnia-and-Herzegovina 5
+      - Bosnia-and-Herzegovina 6
+      - Bosnia-and-Herzegovina 7
+      - Bosnia-and-Herzegovina 8
+      - Bosnia-and-Herzegovina 9
+      - Bosnia-and-Herzegovina 10
+      - Bulgaria
+      - Bulgaria 2
+      - Bulgaria 3
+      - Bulgaria 4
+      - Bulgaria 5
+      - Croatia
+      - Croatia 2
+      - Croatia 3
+      - Croatia 4
+      - Croatia 5
+      - Croatia 6
+      - Croatia 7
+      - Croatia 8
+      - Cyprus
+      - Cyprus 2
+      - Cyprus 3
+      - Cyprus 4
+      - Cyprus 5
+      - Cyprus 6
+      - Cyprus 7
+      - Cyprus 8
+      - Cyprus 9
+      - Cyprus 10
+      - Czechia
+      - Czechia 2
+      - Czechia 3
+      - Czechia 4
+      - Czechia 5
+      - Czechia 6
+      - Czechia 7
+      - Denmark
+      - Denmark 2
+      - Denmark 3
+      - Denmark 4
+      - Denmark 5
+      - Denmark 6
+      - Denmark 7
+      - Denmark 8
+      - Estonia
+      - Estonia 2
+      - Estonia 3
+      - Estonia 4
+      - Estonia 5
+      - Estonia 6
+      - Estonia 7
+      - Finland
+      - Finland 2
+      - Finland 3
+      - Finland 4
+      - Finland 5
+      - Finland 6
+      - France
+      - France 2
+      - France 3
+      - France 4
+      - France 5
+      - France 6
+      - France 7
+      - France 8
+      - France 9
+      - France 10
+      - France 11
+      - France 12
+      - France 13
+      - France 14
+      - France 15
+      - France 16
+      - France 17
+      - France 18
+      - France 19
+      - France 20
+      - France 21
+      - France 22
+      - France 23
+      - France 24
+      - France 25
+      - France 26
+      - France 27
+      - France 28
+      - France 29
+      - France 30
+      - Germany
+      - Germany 2
+      - Germany 3
+      - Germany 4
+      - Germany 5
+      - Germany 6
+      - Germany 7
+      - Germany 8
+      - Germany 9
+      - Germany 10
+      - Germany 11
+      - Germany 12
+      - Germany 13
+      - Germany 14
+      - Germany 15
+      - Germany 16
+      - Germany 17
+      - Germany 18
+      - Germany 19
+      - Germany 20
+      - Germany 21
+      - Germany 22
+      - Germany 23
+      - Germany 24
+      - Greece
+      - Greece 2
+      - Greece 3
+      - Greece 4
+      - Greece 5
+      - Greece 6
+      - Greece 7
+      - Greece 8
+      - Greece 9
+      - Greece 10
+      - Hungary
+      - Hungary 2
+      - Hungary 3
+      - Hungary 4
+      - Hungary 5
+      - Hungary 6
+      - Hungary 7
+      - Hungary 8
+      - Hungary 9
+      - Hungary 10
+      - Iceland
+      - Iceland 2
+      - Iceland 3
+      - Iceland 4
+      - Iceland 5
+      - Iceland 6
+      - Iceland 7
+      - Ireland
+      - Ireland 2
+      - Ireland 3
+      - Ireland 4
+      - Ireland 5
+      - Ireland 6
+      - Ireland 7
+      - Ireland 8
+      - Ireland 9
+      - Italy
+      - Italy 2
+      - Italy 3
+      - Italy 4
+      - Italy 5
+      - Italy 6
+      - Italy 7
+      - Italy 8
+      - Italy 9
+      - Italy 10
+      - Italy 11
+      - Italy 12
+      - Italy 13
+      - Italy 14
+      - Italy 15
+      - Italy 16
 rules:
  - MATCH,♻️ BESTPING,🔰 SELECT
