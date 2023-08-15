@@ -35,7 +35,7 @@
             "uuid": "38A743C4-F4CF-4184-A8E8-7FC1A3863AD8",
             "flow": "xtls-rprx-vision",
             "tls": {
-                "enabled": false ,
+                "enabled": ,
                 "server_name": "", // 如果 "server" 填的是域名，可留空；如果 "server" 填的是 IP，填服务端的证书中包含的域名，且可不指向服务端的 IP
                 "utls": {
                     "enabled": true,
